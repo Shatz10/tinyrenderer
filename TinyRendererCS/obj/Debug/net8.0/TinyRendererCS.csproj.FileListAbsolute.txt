@@ -1,0 +1,15 @@
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\bin\Debug\net8.0\TinyRendererCS.exe
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\bin\Debug\net8.0\TinyRendererCS.deps.json
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\bin\Debug\net8.0\TinyRendererCS.runtimeconfig.json
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\bin\Debug\net8.0\TinyRendererCS.dll
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\bin\Debug\net8.0\TinyRendererCS.pdb
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.AssemblyInfoInputs.cache
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.AssemblyInfo.cs
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.csproj.CoreCompileInputs.cache
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.sourcelink.json
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.dll
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\refint\TinyRendererCS.dll
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.pdb
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\TinyRendererCS.genruntimeconfig.cache
+E:\GitHub\_Graphics\tinyrenderer\TinyRendererCS\obj\Debug\net8.0\ref\TinyRendererCS.dll
