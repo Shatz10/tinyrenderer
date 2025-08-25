@@ -27,7 +27,7 @@ namespace TinyRendererCS
             Renderer.SetProjection(-1.0 / (eye - center).Norm());
 
             // Create framebuffer and z-buffer
-            var framebuffer = new TgaImage(width, height, TgaImage.Format.RGB);
+            var framebuffer = new PngImage(width, height);
             var zBuffer = new double[width * height];
             for (int i = 0; i < zBuffer.Length; i++)
                 zBuffer[i] = double.MinValue;
@@ -64,8 +64,8 @@ namespace TinyRendererCS
             }
 
             // Save the rendered image
-            string outputPath = "framebuffer.tga";
-            bool success = framebuffer.WriteTgaFile(outputPath);
+            string outputPath = "framebuffer.png";
+            bool success = framebuffer.SavePng(outputPath);
             
             if (success)
             {
@@ -75,6 +75,8 @@ namespace TinyRendererCS
             {
                 Console.WriteLine("Error: Failed to save rendered image.");
             }
+            
+            framebuffer.Dispose();
         }
     }
 }
